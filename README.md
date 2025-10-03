@@ -15,7 +15,7 @@ Hello world , terminator is here.
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 📫 How to reach me **SHreyakmalik@gmail.com**
+- 📫 How to reach me **Shreyakmalik@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SuyOL8wQBWXbZHdYvG2f9z7V2P7lg5Dc/view?usp=sharing](https://drive.google.com/file/d/1SuyOL8wQBWXbZHdYvG2f9z7V2P7lg5Dc/view?usp=sharing)
 
